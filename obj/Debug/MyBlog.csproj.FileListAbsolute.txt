@@ -65,7 +65,7 @@ C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\bin\Microsoft.AI.Depende
 C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
-C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
 C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
 C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\obj\Debug\MyBlog.dll
 C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Janis\Desktop\Portfolio Projects\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
